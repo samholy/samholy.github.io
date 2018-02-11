@@ -1,0 +1,51 @@
+
+.title {
+	margin-top: 10px;
+	display: inline-block;
+	padding: 5px;
+	text-align: center;
+	font-size: 55px;
+	font-family: verdana;
+	color: white;
+	border: 3px solid white;
+	border-bottom-right-radius: 20px;
+	border-top-left-radius: 20px;
+	background-color: black;
+	background: rgba(0, 0, 0, 0.5)
+}
+
+body {
+	background: url("../imgs/profile_bg.jpg") no-repeat center center fixed;
+	background-size: cover;
+	
+}
+
+.row{
+	margin-top: 10px
+}
+
+.profile-btn {
+	text-align: center;
+	font-size: 15px;
+	font-family: bedas;
+	color: white;
+	border: 1px solid;
+	border-radius: 10px;
+	border-color: rgba(255, 255, 255, 0.3)
+}
+
+.mynav {
+	margin-right: auto;
+	margin-left: auto;
+}
+.bg-mylight {
+	background-color: rgba(204, 133, 0, 0.8);
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border: solid;
+	border-color: rgba(255, 255, 255, 0.3)
+}
+
+.row{
+	margin-bottom: 10px;
+}

@@ -1,0 +1,22 @@
+
+.frontitle {
+	text-align: center;
+	font-size: 75px;
+	font-family: verdana;
+	color: white;
+	border: 3px solid white;
+	border-bottom-right-radius: 20px;
+	border-top-left-radius: 20px;
+	background-color: black;
+	background: rgba(0, 0, 0, 0.5)
+}
+
+body {
+	background: url("../imgs/kkbackground.jpg") no-repeat center center fixed;
+	background-size: cover;
+	
+}
+
+.row{
+	margin-top: 10px
+}
